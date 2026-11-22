@@ -1,4 +1,4 @@
-# Terraform working files (never publish these)
+# Terraform working files
 .terraform/
 .terraform.lock.hcl
 *.tfstate
